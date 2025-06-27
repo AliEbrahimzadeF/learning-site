@@ -1,3 +1,1 @@
-# learning-site
-# learning-site
-# learning-site
+# Mini-project-of-the-learning-site
